@@ -10,7 +10,7 @@
 
 - 🌱 I’m passionate about building scalable, high-quality software solutions and have experience in both full-stack development and real-time systems.
 - 👯 I’m looking to collaborate on **Full-Stack Web Applications, Game Development projects, and Real-Time Collaborative Platforms**.
-- 🔭 I’m currently learning and expanding my knowledge in **Java, APIs, and Kubernetes**.
+- 🔭 I’m currently learning and expanding my knowledge in **MERN, APIs, and GenAI**.
 - 💬 Ask me about **Node.js, React, MongoDB, Unity, C#, and Data Structures & Algorithms**.
 - 📫 How to reach me: **harshsingh03004@gmail.com**
 
